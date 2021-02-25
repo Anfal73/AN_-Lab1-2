@@ -22,3 +22,7 @@ summary(datasaurus_dozen)
 
 
 (By coding I understood that data science is a broad field .)
+```{r}
+
+```
+
