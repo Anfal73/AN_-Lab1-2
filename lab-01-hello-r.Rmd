@@ -17,7 +17,8 @@ library(datasauRus)
 
 ### Lab Exercise
 ```{r}
-summary(datasaurus_dozen)
+ summary(datasaurus_dozen)
+
 ```
 
 (By coding I understood that data science is a broad field .)
